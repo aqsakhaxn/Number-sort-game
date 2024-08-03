@@ -1,0 +1,5 @@
+flask1	flask2	flask3	flask4	flask5
+1	2	1
+2	2	1
+1	3	3
+3	3	2
